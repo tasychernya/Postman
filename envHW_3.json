@@ -1,0 +1,27 @@
+{
+	"id": "5251753d-4fb9-4c6d-9869-f4640e2dc3d8",
+	"name": "HW_3",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "http://162.55.220.72:5005",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "resp15",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-11-20T14:49:49.582Z",
+	"_postman_exported_using": "Postman/11.20.0-241111-0639"
+}
